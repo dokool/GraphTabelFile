@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GraphTabelFile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraphTabelFile_jar</output-path>
+    <root id="archive" name="GraphTabelFile.jar">
+      <element id="module-output" name="GraphTabelFile" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/jcommon-1.0.24.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
